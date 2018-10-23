@@ -1,4 +1,4 @@
-# 01-Structuring-the-Web
+# Structuring-the-Web
 *Welcome to the first assigment!*
 
 To start this assessment you should clone this repository. You'll work on your local computer (remember to commit your work!). When you are ready, you can push to your remote repository.
