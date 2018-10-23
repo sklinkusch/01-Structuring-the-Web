@@ -1,4 +1,4 @@
-# Structuring-the-Web
+# Structuring the Web
 *Welcome to the first assigment!*
 
 To start this assessment you should clone this repository. You'll work on your local computer (remember to commit your work!). When you are ready, you can push to your remote repository.
@@ -31,3 +31,7 @@ You need to add a suitable wrapper for:
 * The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.
 * If you are getting stuck and can't envisage what elements to put where, it often helps to draw out a simple block diagram of the page layout, and write on the elements you think should wrap each block.
 
+## References
+
+[Internet is hard - Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
+[MDN - Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
