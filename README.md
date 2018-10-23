@@ -30,7 +30,7 @@ When you finished, your homepage should look much better!
 
 ## Hints and tips
 
-* Use the [W3C HTML validator](https://validator.w3.org/) to validate your HTML; you'll get bonus points if it validates as much as possible (the "googleapis" line is used to import custom fonts into the page from the Google Fonts service; [it doesn't validate](https://stackoverflow.com/questions/22466913/google-fonts-url-break-html5-validation-on-w3-org), but don't worry about too much about it — the validator is a useful tool, but 100% validation is an ideal rather than completely necessary.)
+* Use the [W3C HTML validator Chrome extension](https://chrome.google.com/webstore/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk) to validate your HTML. You'll get bonus points if it validates as much as possible (the "googleapis" line is used to import custom fonts into the page from the Google Fonts service; [it doesn't validate](https://stackoverflow.com/questions/22466913/google-fonts-url-break-html5-validation-on-w3-org), but don't worry about too much about it — the validator is a useful tool, but 100% validation is an ideal rather than completely necessary.)
 
 * You don't need to know any CSS to do this assessment; you just need to put the provided CSS inside an HTML element.
 * The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.
@@ -38,6 +38,5 @@ When you finished, your homepage should look much better!
 
 ## References
 
-[Internet is hard - Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
-
+[Internet is hard - Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)  
 [MDN - Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
