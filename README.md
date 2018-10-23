@@ -23,6 +23,11 @@ It needs to have:
 You need to add a suitable wrapper for:
 * Apply the provided CSS to the page by adding another <link> element just below the existing one provided at the start.
 
+## Result
+When you finished, your homepage should look much better!
+![Homepage finished](./assets/images/result.png)
+
+
 ## Hints and tips
 
 * Use the [W3C HTML validator](https://validator.w3.org/) to validate your HTML; you'll get bonus points if it validates as much as possible (the "googleapis" line is used to import custom fonts into the page from the Google Fonts service; [it doesn't validate](https://stackoverflow.com/questions/22466913/google-fonts-url-break-html5-validation-on-w3-org), but don't worry about too much about it — the validator is a useful tool, but 100% validation is an ideal rather than completely necessary.)
